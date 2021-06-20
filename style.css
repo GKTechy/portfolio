@@ -56,19 +56,18 @@ nav h2{
     align-items: center;
     text-align: center;
     cursor: pointer;
+    padding: 10px;
 }
 
-.socialmedia span{
-    padding: 0 20px;
-}
+
 
 .socialmedia span a{
     padding: 0 20px;
     color: #fff;
 }
 
-.fa{
-    font-style: 2em !important;
+.socialmedia span a .fa{
+    font-size: 1.5em ;
     cursor: pointer;
 }
 
