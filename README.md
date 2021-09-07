@@ -1,12 +1,3 @@
-
-
-### Avatar and Bio
-
-Your github avatar and bio will be displayed here.\
-<br/>
-![Avatar Bio](https://arifszn.github.io/assets/img/hosted/ezprofile/avatar-card.png)
-
-
 ## 🚀 Deploy
 
 Once you are done with your setup and have completed all steps above, you need to put your website online! The fastest approach is to use [GitHub Pages](https://pages.github.com) which is completely free.
