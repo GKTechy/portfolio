@@ -157,7 +157,7 @@ function App() {
                                     <div className="lg:col-span-2 col-span-1">
                                         <div className="grid grid-cols-1 gap-6">
                                             <Project />
-                                            <Blog />
+                                            {/* <Blog /> */}
                                         </div>
                                     </div>
                                 </div>
@@ -165,7 +165,7 @@ function App() {
                             {/* DO NOT REMOVE/MODIFY THE FOOTER */}
                             <footer className="p-4 footer bg-base-200 text-base-content footer-center">
                                 <div>
-                                    <p className="font-mono text-sm">Made with <a className="text-primary" href="https://github.com/arifszn/ezprofile" target="_blank" rel="noreferrer">ezProfile</a> and ❤️</p>
+                                    {/* <p className="font-mono text-sm">Made with <a className="text-primary" href="https://github.com/arifszn/ezprofile" target="_blank" rel="noreferrer">ezProfile</a> and ❤️</p> */}
                                 </div>
                             </footer>
                         </Fragment>
