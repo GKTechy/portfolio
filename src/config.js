@@ -10,9 +10,9 @@ module.exports = {
         }
     },
     social: {
-        linkedin: '',
+        linkedin: 'gokulakrishnan-m-356567199',
         twitter: '',
-        facebook: '',
+        facebook: 'glaps.gokul',
         dribbble: '',
         behance: '',
         medium: '',

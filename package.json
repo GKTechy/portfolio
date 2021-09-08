@@ -1,11 +1,11 @@
 {
-    "name": "ezprofile",
+    "name": "gkprofile",
     "version": "1.0.0",
     "description": "Kickstart your personal portfolio with Github Api and blog",
     "homepage": "https://arifszn.github.io/ezprofile",
     "private": true,
     "license": "Apache-2.0",
-    "author": "arifszn",
+    "author": "Gokulakrishnan M",
     "repository": {
         "type": "git",
         "url": "https://github.com/arifszn/ezprofile.git"
