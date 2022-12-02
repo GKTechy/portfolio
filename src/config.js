@@ -36,10 +36,16 @@ module.exports = {
     ],
     experiences: [
         { 
+            company: 'Cognizant',
+            position: 'Sr. Associate - Projects',
+            from: 'Nov 2022',
+            to: 'Present'
+        },
+        { 
             company: 'Mindspace consulting consortium',
             position: 'Senior Software Engineer',
             from: 'September 2015',
-            to: 'Present'
+            to: 'Nov 2022'
         },
         { 
             company: 'Job Connect',
